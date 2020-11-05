@@ -1,0 +1,14 @@
+com.microej.example.fp.backlight-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.backlight-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.bounds-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.bounds-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.coordinates-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.coordinates-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.dimming-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.dimming-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.doublepress-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.doublepress-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.led-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.led-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
+com.microej.example.fp.splash-configuration/build/module/module-dropins/tools/license-checker.jar
+com.microej.example.fp.splash-configuration/build/module/module-dropins/workbenchExtension_launchScriptFramework.jar
