@@ -1,10 +1,12 @@
 com.microej.example.fp.*-configuration/target~/
 com.microej.example.fp.*-configuration/dropins/
 com.microej.example.fp.*-example/bin/
+com.microej.example.fp.*-application/bin/
 com.microej.example.fp.*-fp/bin/
 com.microej.example.fp.*-fp/lib/
 com.microej.example.fp.*-fp/src/main/resources/.widget.xsd
 *-Platform-CM4hardfp_IAR83-*/source/*
 *-Platform-CM4hardfp_IAR83-*/build/*
 com.microej.example.fp.*-example/*.launch.properties
+com.microej.example.fp.*-application/*.launch.properties
 platformtmp/

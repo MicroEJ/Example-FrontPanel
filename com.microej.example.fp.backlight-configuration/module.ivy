@@ -1,5 +1,5 @@
 <!--
-	Copyright 2020 MicroEJ Corp. All rights reserved.
+	Copyright 2020-2021 MicroEJ Corp. All rights reserved.
 	Use of this source code is governed by a BSD-style license that can be found with this software.
 -->
 <ivy-module version="2.0" xmlns:ea="http://www.easyant.org" xmlns:m="http://ant.apache.org/ivy/extra" xmlns:ej="https://developer.microej.com" ej:version="2.0.0">
@@ -22,10 +22,10 @@
 	</publications>
     
     <dependencies>
-		<dependency org="com.microej.architecture.CM4.CM4hardfp_IAR83" name="flopi4I35" rev="7.13.0">
+		<dependency org="com.microej.architecture.CM4.CM4hardfp_IAR83" name="flopi4I35" rev="7.14.0">
             <artifact name="flopi4I35" m:classifier="eval" ext="xpf"/>
         </dependency>	
-        <dependency org="com.microej.architecture.CM4.CM4hardfp_IAR83" name="flopi4I35-ui-pack" rev="13.0.2"/>
+        <dependency org="com.microej.architecture.CM4.CM4hardfp_IAR83" name="flopi4I35-ui-pack" rev="13.0.4"/>
     </dependencies>
     
 </ivy-module>

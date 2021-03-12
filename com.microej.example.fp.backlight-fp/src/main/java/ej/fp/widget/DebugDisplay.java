@@ -12,11 +12,12 @@ import ej.fp.Widget.WidgetAttribute;
 import ej.fp.Widget.WidgetDescription;
 
 /**
- * Same widget than {@link Display} but can change backlight simulation when
- * user clicking on mouse third button (often right click).
+ * Same widget as {@link Display} but it can change the backlight
+ * simulation when user clicks on mouse third button (often right
+ * click).
  * <p>
- * Contrary to {@link Display} this display implements {@link MouseListener} to
- * be able to catch mouse events.
+ * Contrary to {@link Display}, this display implements {@link MouseListener} to
+ * catch mouse events.
  */
 @WidgetDescription(attributes = { @WidgetAttribute(name = "label", isOptional = true), @WidgetAttribute(name = "x"),
 		@WidgetAttribute(name = "y"), @WidgetAttribute(name = "width"), @WidgetAttribute(name = "height"),

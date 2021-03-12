@@ -1,7 +1,7 @@
 /*
  * Java
  *
- * Copyright 2019-2020 MicroEJ Corp. All rights reserved.
+ * Copyright 2019-2021 MicroEJ Corp. All rights reserved.
  * Use of this source code is governed by a BSD-style license that can be found with this software.
  */
 package ej.fp.widget;
@@ -13,11 +13,11 @@ import ej.fp.Widget.WidgetAttribute;
 import ej.fp.Widget.WidgetDescription;
 
 /**
- * Same widget than {@link Display} but draw a tool tip on display pixel
- * coordinates when user clicking on mouse third button (often right click).
+ * Same widget as {@link Display} but it draws a tool tip on display pixel
+ * coordinates when user clicks on mouse third button (often right click).
  * <p>
  * Contrary to {@link Display} this display implements {@link MouseListener} to
- * be able to catch mouse events and position.
+ * catch mouse events and position.
  */
 @WidgetDescription(attributes = { @WidgetAttribute(name = "label", isOptional = true), @WidgetAttribute(name = "x"),
 		@WidgetAttribute(name = "y"), @WidgetAttribute(name = "width"), @WidgetAttribute(name = "height"),

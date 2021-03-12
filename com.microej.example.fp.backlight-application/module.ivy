@@ -1,0 +1,20 @@
+<!--
+	IVY
+	
+	Copyright 2019-2021 MicroEJ Corp. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+<ivy-module version="2.0" xmlns:ea="http://www.easyant.org" xmlns:ej="https://developer.microej.com" ej:version="2.0.0"> 
+    <info organisation="com.microej.example.fp" module="backlight" status="integration" revision="1.0.0"/>      
+	
+	<configurations defaultconfmapping="default->default;provided->provided">
+		<conf name="default" visibility="public" description="Runtime dependencies to other artifacts"/>
+		<conf name="provided" visibility="public" description="Compile-time dependencies to APIs provided by the platform"/>
+	</configurations>
+	
+	<publications/>
+	
+    <dependencies>
+    	<dependency org="ej.api" name="microui" rev="3.0.3"/>
+    </dependencies>
+</ivy-module>
