@@ -1,12 +1,12 @@
 # Overview
-This example shows the mouse coordinates when the mouse is over the display. 
+This example shows the mouse coordinates when the mouse is over the display.
 
 # Usage
 
 ## Build the platform
 1. Right-click on project `com.microej.example.fp.coordinates-configuration`.
 2. Select `Build Module`.
-3. Wait for platform building. 
+3. Wait for platform building.
 4. Right-click on project `coordinates-Platform-CM4hardfp_IAR83-1.0.0`.
 5. Select `Refresh`.
 
@@ -16,9 +16,9 @@ This example shows the mouse coordinates when the mouse is over the display.
 
 The application starts and shows random rectangles.  
 
-1. Move mouse over the display: the coordinates are visible in a tool tip.
-1. Press mouse third button (often right-click) to disable the tooltip. 
-1. Press again mouse third button to enable tool tip. 
+1. Move mouse over the display: the coordinates are visible in a tooltip.
+1. Press mouse third button (often right-click) to disable the tooltip.
+1. Press again mouse third button to enable tooltip. 
 1. Press mouse first button (often left click) to erase display content.
 
 # Requirements
